@@ -5,8 +5,17 @@
 
 A multimodal artificial intelligence system that detects phishing and malicious threats by combining **textual analysis (emails & URLs)** and **visual analysis (website screenshots)**.
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/TF--IDF-Feature%20Extraction-blue?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-9cf?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PIL-Pillow%20Imaging%20Library-yellow?style=for-the-badge&logo=python&logoColor=white"/>
 
+<div align="left">
 ## 📌 Overview
 
 Phishing attacks are becoming increasingly sophisticated, combining deceptive text, malicious URLs, and visually convincing fake websites. Traditional single-modality detection systems struggle to handle such complex threats.
