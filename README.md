@@ -15,7 +15,9 @@ A multimodal artificial intelligence system that detects phishing and malicious 
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/PIL-Pillow%20Imaging%20Library-yellow?style=for-the-badge&logo=python&logoColor=white"/>
 
+---
 <div align="left">
+
 ## 📌 Overview
 
 Phishing attacks are becoming increasingly sophisticated, combining deceptive text, malicious URLs, and visually convincing fake websites. Traditional single-modality detection systems struggle to handle such complex threats.
