@@ -5,6 +5,17 @@
 
 A multimodal artificial intelligence system that detects phishing and malicious threats by combining **textual analysis (emails & URLs)** and **visual analysis (website screenshots)**.
 
+---
+## 🛠️ Tech Stack
+
+- **Programming Language:** Python  
+- **Machine Learning:** scikit-learn  
+- **Deep Learning:** TensorFlow / PyTorch  
+- **NLP:** TF-IDF, NLTK  
+- **Image Processing:** OpenCV, PIL  
+- **Web App:** Streamlit  
+
+
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -79,15 +90,6 @@ The system consists of three independent models:
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Programming Language:** Python  
-- **Machine Learning:** scikit-learn  
-- **Deep Learning:** TensorFlow / PyTorch  
-- **NLP:** TF-IDF, NLTK  
-- **Image Processing:** OpenCV, PIL  
-- **Web App:** Streamlit  
-
----
 
 
