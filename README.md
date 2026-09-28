@@ -86,8 +86,7 @@ The system consists of three independent models:
 | URL      | 0.9979   | 0.9964    | 0.9945 | 0.9954   |
 | Image    | 0.8308   | 0.7183    | 0.8516 | 0.7793   |
 
-> Multimodal approach outperforms single models, especially for complex phishing attacks. :contentReference[oaicite:1]{index=1}
-
+> Multimodal approach outperforms single models, especially for complex phishing attacks.
 ---
 
 
